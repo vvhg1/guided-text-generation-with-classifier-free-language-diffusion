@@ -1,4 +1,4 @@
-# Guided Text Generation with Classifier free Language Diffusion
+# Guided Text Generation with Classifier-free Language Diffusion
 
 Author: Victor v. Hobe-Gelting
 
