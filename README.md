@@ -1,4 +1,4 @@
-# Guided Text Generation with Classifier free Language Diffusion
+# Guided Text Generation with Classifier-free Language Diffusion
 
 Author: Victor v. Hobe-Gelting
 
@@ -36,7 +36,7 @@ GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diff
 
 <br/><br/>
 GLID-3
->https://github.com/Jack000/glid-3
+>Repository: https://github.com/Jack000/glid-3
 
 <br/><br/>
 
